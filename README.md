@@ -1,5 +1,5 @@
-# TP2DesignPatern
-question 4 du TP2 Design Patern - IsmailCharfi- SalemHamdani
+# TP2DesignPattern
+question 4 du TP2 Design Pattern - IsmailCharfi- SalemHamdani
 
 Le diagramme de class : 
 
